@@ -1,0 +1,8 @@
+name = input("Enter a name : ")
+print(len(name))
+print(name[2])
+print(name[-1])
+print(name[2:11])
+print(name[5:])
+print(name[:9])
+print(name[-1:-9])
